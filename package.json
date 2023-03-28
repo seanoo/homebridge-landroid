@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/normen/homebridge-landroid#readme",
   "dependencies": {
-    "iobroker.worx": "1.7.0",
+    "iobroker.worx": "2.0.3",
     "moment": "^2.29.1"
   },
   "devDependencies": {
